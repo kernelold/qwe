@@ -1,9 +1,9 @@
 {
   "Parameters": {
     "AMIID": "/aws/service/ami-amazon-linux-latest/amzn2-ami-hvm-x86_64-ebs",
-    "ExternalSubnetIds": "subnet-123,subnet-345,subnet-456",
-    "InternalSubnetIds": "subnet-778,subnet-890,subnet-012",
-    "VpcId": "vpc-123",
+"ExternalSubnetIds": "subnet-0a25b6e20d672302d,subnet-0ba91808228f78c35,subnet-0335ba377e4bde0d4",
+"InternalSubnetIds": "subnet-0d7587bdbfd7f84a3,subnet-0a68b9dfb8907d6de,subnet-0d001b3c248a2e3d8",
+"VpcId": "vpc-0db9fd2f70feea15e",
     "InstanceType": "t3.nano",
     "InternalPeerIp": "172.16.1.2/32",
     "InternalServerIp": "172.16.1.1/32",
